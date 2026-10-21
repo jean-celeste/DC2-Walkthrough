@@ -1,10 +1,10 @@
 # DC-2 — VulnHub Walkthrough & Penetration Test Documentation
 
-> **Target machine:** DC-2 (VulnHub)
-> **Objective:** Gain root access and recover all five flags.
-> **Environment:** VirtualBox host-only / NAT network, Kali Linux attacker.
-> **Author:** Jean Carlo
-> **Date:** 2026-10-22
+**Target machine:** DC-2 (VulnHub)\
+**Objective:** Gain root access and recover all five flags.\
+**Environment:** VirtualBox host-only / NAT network, Kali Linux attacker.\
+**Author:** Jean Carlo Celeste\
+**Date:** 2026-10-22\
 
 ---
 
